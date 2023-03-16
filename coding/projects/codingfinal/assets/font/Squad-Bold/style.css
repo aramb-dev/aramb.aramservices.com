@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Squad ';
+    src: local('Squad  Bold'), local('Squad--Bold'),
+        url('Squad-Bold.woff2') format('woff2'),
+        url('Squad-Bold.woff') format('woff'),
+        url('Squad-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }

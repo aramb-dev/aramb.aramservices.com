@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/arambdev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aramb.aramservices.com
+  * I am arambdev (https://keybase.io/arambdev) on keybase.
+  * I have a public key ASBpEMhVbqu7RtMLwa3Ix_V0AJGfPC_8LAxeBxZdkzdHUAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206910c8556eabbb46d30bc1adc8c7f57400919f3c2ffc2c0c5e07165d933747500a",
+      "host": "keybase.io",
+      "kid": "01206910c8556eabbb46d30bc1adc8c7f57400919f3c2ffc2c0c5e07165d933747500a",
+      "uid": "8238b2f5f12cfbe9d132220b8393dd19",
+      "username": "arambdev"
+    },
+    "merkle_root": {
+      "ctime": 1675298452,
+      "hash": "fa4e3f465fcedccb656fcfae9e44a13d102704624337663535d0510b31b1561a6208d4cca6affe0d088006efc3daa5ee09c8d1d61b99199041aa3f9fa42deaeb",
+      "hash_meta": "c1161d4cc022afd4d33ee40bd41daa8e846fd3ad69de9296b913d1f1456ca0d0",
+      "seqno": 23974619
+    },
+    "service": {
+      "entropy": "2YkmoBtk+anyoQG++9l3fjsY",
+      "hostname": "aramb.aramservices.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1675298465,
+  "expire_in": 504576000,
+  "prev": "eb96591105f67703157c55791727a1f6cd4384a62779d0602a54bd1019ada940",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaRDIVW6ru0bTC8GtyMf1dACRnzwv/CwMXgcWXZM3R1AKp3BheWxvYWTESpcCBcQg65ZZEQX2dwMVfFV5Fyeh9s1DhKYnedBgKlS9EBmtqUDEIFTcjH6DWcIJqHgymJ14cbf+bQw73DILo/SXlNadqPtCAgHCo3NpZ8RAEwblAGOaaUa25yXBhVqr6YL9p8U4j9mKuxrPJ+0uRn0kT3IAUrabdZwi+SUIejzX3l4Y78Hcd2xJywOhMKGcCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFX/elHuyUJC9EKfPHVtvypE7LpRkw6dx6S6z/haY2aYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/arambdev
+
+==================================================================
